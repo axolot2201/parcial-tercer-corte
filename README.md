@@ -1,7 +1,7 @@
 # parcial-tercer-corte
 Unico integrante: Andres felipe Carranza Hernandez
 
-C++\n
+C++
 Desarrollos innovadores:
 -seleccion de cada equipo de pokemons por parte de los jugadores
 -6 tipos diferentes de pokemons
